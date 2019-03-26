@@ -1,6 +1,6 @@
 {
-    "project_name": "Base Swift",
-    "company_name": "HBLab",
+    "project_name": "Base Project",
+    "company_name": "XomCa Studio",
     "bundle_identifier": "com.{{ cookiecutter.company_name | replace(' ', '-') | lower }}.{{ cookiecutter.project_name | replace(' ', '-') | lower }}",
-    "dev_name": "Shaw Vu"
+    "dev_name": ""
 }
