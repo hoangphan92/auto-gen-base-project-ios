@@ -1,4 +1,4 @@
-## Install Dependencies and Requirements
+## Install Dependencies
 #### install Homebrew
 ```ruby
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
