@@ -1,0 +1,6 @@
+{
+    "project_name": "Base Swift",
+    "company_name": "HBLab",
+    "bundle_identifier": "com.{{ cookiecutter.company_name | replace(' ', '-') | lower }}.{{ cookiecutter.project_name | replace(' ', '-') | lower }}",
+    "dev_name": "Shaw Vu"
+}
