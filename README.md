@@ -11,3 +11,6 @@ brew install python3
 
 #### install CookieCutter
 pip3 install cookiecutter
+
+# Run
+cookiecutter https://github.com/hoangphan92/auto-gen-base-project-ios
